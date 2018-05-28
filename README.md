@@ -1,6 +1,7 @@
 # ecologit
 
-Quelques bonnes pratiques écologiques
+Quelques gestes écologiques :
+
 
 
 * électricité : passer chez un vrai fournisseur d'énergie renouvelable
