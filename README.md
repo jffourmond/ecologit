@@ -63,4 +63,4 @@ Quelques gestes écologiques :
   * partager des posts
   * signer des pétitions
 * voter pour un parti écolo
-* chercher d'autres gestes et forker ce projet
+* chercher d'autres idées et forker ce projet
