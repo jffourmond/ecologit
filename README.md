@@ -35,6 +35,9 @@ Quelques gestes écologiques :
   * amener des couverts et refuser les couverts jetables le midi
   * [acheter une gourde](https://boutique.wwf.fr/maison/540-gourde-bleue.html) au lieu d'acheter des bouteilles d'eau en plastique
   * éteindre son PC et son écran en partant
+* sur internet
+  * essayer un moteur de recherche écolo : [Ecosia](https://www.ecosia.org/) / [Lilo](https://www.lilo.org/fr/)
+  * [mettre les playlists Spotify en cache](mettre ses playlists Spotify en cache)  
 * en déplacement
   * prendre le train plutôt que l'avion même si c'est plus long
   * essayer [Uber Green](https://www.uber.com/fr/ride/ubergreen/) : même prix que Uber X
@@ -44,9 +47,6 @@ Quelques gestes écologiques :
   * ne pas acheter de vêtements qu'on n'aime pas vraiment
   * privilégier les achats d'occasion
   * baskets : acheter des [Veja](https://project.veja-store.com/fr/intro/)
-* sur internet
-  * essayer un moteur de recherche écolo : [Ecosia](https://www.ecosia.org/) / [Lilo](https://www.lilo.org/fr/)
-  * mettre les playlists Spotify en cache
 * cadeaux : offrir (et se faire offrir) des dons plutôt que des objets
   * [cadons Fondation pour la Nature et l'Homme](http://boutique-solidaire.com/fnh/69-cadons)
   * [dons WWF](https://boutique.wwf.fr/17-agir-autrement)
