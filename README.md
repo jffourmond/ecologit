@@ -37,7 +37,7 @@ Quelques gestes écologiques :
   * éteindre son PC et son écran en partant
 * en déplacement
   * prendre le train plutôt que l'avion même si c'est plus long
-  * prendre des [Uber Green](https://www.uber.com/fr/ride/ubergreen/) : même prix que Uber X
+  * essayer [Uber Green](https://www.uber.com/fr/ride/ubergreen/) : même prix que Uber X
   * prendre les escaliers plutôt que l'ascenseur
   * compenser ses émissions de CO2
 * shopping
