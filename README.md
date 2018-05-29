@@ -1,6 +1,6 @@
 # ecologit
 
-Quelques gestes écologiques :
+Quelques gestes écologiques à forker
 
 
 
@@ -37,14 +37,13 @@ Quelques gestes écologiques :
   * éteindre son PC et son écran en partant
 * sur internet
   * essayer un moteur de recherche écolo : [Ecosia](https://www.ecosia.org/) / [Lilo](https://www.lilo.org/fr/)
-  * [mettre les playlists Spotify en cache](mettre ses playlists Spotify en cache)  
+  * [mettre ses playlists Spotify en cache](https://mic.com/articles/104716/the-one-thing-everyone-is-missing-about-streaming-music#.1uzwNPntT)  
 * en déplacement
   * prendre le train plutôt que l'avion même si c'est plus long
   * essayer [Uber Green](https://www.uber.com/fr/ride/ubergreen/) : même prix que Uber X
   * prendre les escaliers plutôt que l'ascenseur
   * compenser ses émissions de CO2
 * shopping
-  * ne pas acheter de vêtements qu'on n'aime pas vraiment
   * privilégier les achats d'occasion
   * baskets : acheter des [Veja](https://project.veja-store.com/fr/intro/)
 * cadeaux : offrir (et se faire offrir) des dons plutôt que des objets
@@ -63,4 +62,4 @@ Quelques gestes écologiques :
   * partager des posts
   * signer des pétitions
 * voter pour un parti écolo
-* chercher d'autres idées et forker ce projet
+* partager d'autres idées
