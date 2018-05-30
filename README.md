@@ -1,9 +1,5 @@
 # ecologit
 
-### Quelques gestes écologiques à forker
-
-
-
 * quitter EDF et passer chez un fournisseur d'électricité 100% renouvelable
   *  [Enercoop](https://www.enercoop.fr/)
   *  [ekWateur](https://ekwateur.fr/) (propose aussi du gaz renouvelable)
@@ -62,4 +58,4 @@
   * partager des posts
   * signer des pétitions
 * voter pour un parti écolo
-* partager d'autres idées
+* chercher d'autres idées et forker ce projet
