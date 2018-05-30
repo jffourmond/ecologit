@@ -21,8 +21,9 @@
     * préférer le verre au plastique
   * acheter des produits bio
   * éviter les fruits venant de loin
-  * acheter des piles rechargeables
+  * [ne pas acheter de produits contenant de l'huile de palme](https://www.fne.asso.fr/actualites/huile-de-palme-un-rapport-contre-la-d%C3%A9forestation)
   * acheter du papier recyclé ou labellisé [FSC](https://www.wwf.fr/champs-daction/foret/gestion-durable/FSC) / [PEFC](https://www.pefc-france.org/articles/papier-certifie-garantie-contre-la-deforestation/) (y compris mouchoirs, papier toilette et sopalin)
+  * acheter des piles rechargeables
   * acheter des produits ménagers écologiques
   * savon et lessive liquide : garder un flacon et acheter des recharges
 * en cuisine : mettre des couvercles sur les casseroles
