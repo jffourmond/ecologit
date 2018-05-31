@@ -26,7 +26,7 @@
   * acheter des piles rechargeables
   * acheter des produits ménagers écologiques
   * savon et lessive liquide : garder un flacon et acheter des recharges
-* en cuisine : mettre des couvercles sur les casseroles
+* en cuisine : [mettre des couvercles sur les casseroles](https://www.lenergietoutcompris.fr/eco-gestes/je-mets-un-couvercle-sur-la-casserole-quand-je-cuisine)
 * au boulot
   * amener une tasse au lieu d'utiliser des gobelets jetables
   * amener des couverts et refuser les couverts jetables le midi
