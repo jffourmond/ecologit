@@ -19,13 +19,14 @@
     * en vrac si possible (riz, pates, noix de cajou...)
     * remplacer le gel douche par du savon
     * préférer le verre au plastique
-  * acheter des produits bio
+    * savon et lessive liquide : garder un flacon et acheter des recharges
+  * acheter des produits respectueux de l'environnement
+    * aliments bio
+    * [pas de produits contenant de l'huile de palme](https://www.fne.asso.fr/actualites/huile-de-palme-un-rapport-contre-la-d%C3%A9forestation)
+    * papier recyclé ou labellisé [FSC](https://www.wwf.fr/champs-daction/foret/gestion-durable/FSC) / [PEFC](https://www.pefc-france.org/articles/papier-certifie-garantie-contre-la-deforestation/) (y compris mouchoirs, papier toilette et sopalin)
+    * produits ménagers écologiques
   * éviter les fruits venant de loin
-  * [ne pas acheter de produits contenant de l'huile de palme](https://www.fne.asso.fr/actualites/huile-de-palme-un-rapport-contre-la-d%C3%A9forestation)
-  * acheter du papier recyclé ou labellisé [FSC](https://www.wwf.fr/champs-daction/foret/gestion-durable/FSC) / [PEFC](https://www.pefc-france.org/articles/papier-certifie-garantie-contre-la-deforestation/) (y compris mouchoirs, papier toilette et sopalin)
   * acheter des piles rechargeables
-  * acheter des produits ménagers écologiques
-  * savon et lessive liquide : garder un flacon et acheter des recharges
 * en cuisine : [mettre des couvercles sur les casseroles](https://www.lenergietoutcompris.fr/eco-gestes/je-mets-un-couvercle-sur-la-casserole-quand-je-cuisine)
 * au boulot
   * amener une tasse au lieu d'utiliser des gobelets jetables
