@@ -60,4 +60,4 @@
   * partager des posts
   * signer des pétitions
 * voter pour un parti écolo
-* chercher d'autres idées ([Verdura](http://www.vedura.fr/) / [Zei](https://zei-world.com/fr/earn)) et forker ce projet
+* chercher d'autres idées ([Solidarité climatique](https://actions.solidariteclimatique.org/actions/toutes) / [Verdura](http://www.vedura.fr/) / [Zei](https://zei-world.com/fr/earn)) et forker ce projet
