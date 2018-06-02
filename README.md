@@ -4,7 +4,6 @@
   *  [Enercoop](https://www.enercoop.fr/)
   *  [ekWateur](https://ekwateur.fr/) (propose aussi du gaz renouvelable)
 *  [manger moins de viande (et surtout moins de boeuf)](https://www.lemonde.fr/les-decodeurs/article/2015/10/29/la-viande-a-aussi-un-impact-majeur-sur-la-planete_4799570_4355770.html)
-*  fumeurs : [ne pas jeter ses mégots par terre](https://amisdewarneton.org/2017/11/03/la-traversee-dramatique-du-megot-du-trottoir-a-la-mer/) et acheter un cendrier de poche
 * recycler
   *  médicaments périmés ou non : [à la pharmacie](https://www.cyclamed.org/pourquoi/quoi-rapporter)
   *  livres : [dans une boutique Oxfam](http://www.oxfamfrance.org/magasins/nos-adresses) ou à [La Librairie Solidaire](http://www.lamaisonducanal.fr/la-librairie-solidaire/)
@@ -21,13 +20,14 @@
     * préférer le verre au plastique
     * savon et lessive liquide : garder un flacon et acheter des recharges
   * acheter des produits respectueux de l'environnement
-    * aliments bio
-    * [pas de produits contenant de l'huile de palme](https://www.fne.asso.fr/actualites/huile-de-palme-un-rapport-contre-la-d%C3%A9forestation)
+    * produits alimentaires bio
+    * [produits sans huile de palme](https://www.fne.asso.fr/actualites/huile-de-palme-un-rapport-contre-la-d%C3%A9forestation)
     * papier recyclé ou labellisé [FSC](https://www.wwf.fr/champs-daction/foret/gestion-durable/FSC) / [PEFC](https://www.pefc-france.org/articles/papier-certifie-garantie-contre-la-deforestation/) (y compris mouchoirs, papier toilette et sopalin)
     * produits ménagers écologiques
   * éviter les fruits venant de loin
   * acheter des piles rechargeables
 * en cuisine : [mettre des couvercles sur les casseroles](https://www.lenergietoutcompris.fr/eco-gestes/je-mets-un-couvercle-sur-la-casserole-quand-je-cuisine)
+*  fumeurs : [ne pas jeter ses mégots par terre](https://amisdewarneton.org/2017/11/03/la-traversee-dramatique-du-megot-du-trottoir-a-la-mer/) et acheter un cendrier de poche
 * au boulot
   * amener une tasse au lieu d'utiliser des gobelets jetables
   * amener des couverts et refuser les couverts jetables le midi
