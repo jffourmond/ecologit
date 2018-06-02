@@ -4,7 +4,7 @@
   *  [Enercoop](https://www.enercoop.fr/)
   *  [ekWateur](https://ekwateur.fr/) (propose aussi du gaz renouvelable)
 *  [manger moins de viande (et surtout moins de boeuf)](https://www.lemonde.fr/les-decodeurs/article/2015/10/29/la-viande-a-aussi-un-impact-majeur-sur-la-planete_4799570_4355770.html)
-* recycler
+* recycler au lieu de jeter
   *  médicaments périmés ou non : [à la pharmacie](https://www.cyclamed.org/pourquoi/quoi-rapporter)
   *  livres : [dans une boutique Oxfam](http://www.oxfamfrance.org/magasins/nos-adresses) ou à [La Librairie Solidaire](http://www.lamaisonducanal.fr/la-librairie-solidaire/)
   *  vêtements et textiles usés ou non : [chez Emmaüs](http://emmaus-france.org/ou-donner-ou-acheter/) ou [dans une borne Relais](https://www.lerelais.org/oudonner.php)
