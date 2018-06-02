@@ -20,7 +20,7 @@
     * préférer le verre au plastique
     * savon et lessive liquide : garder un flacon et acheter des recharges
   * acheter des produits respectueux de l'environnement
-    * produits alimentaires bio
+    * [produits alimentaires bio](http://www.fao.org/organicag/oa-faq/oa-faq6/fr/)
     * [produits sans huile de palme](https://www.fne.asso.fr/actualites/huile-de-palme-un-rapport-contre-la-d%C3%A9forestation)
     * papier recyclé ou labellisé [FSC](https://www.wwf.fr/champs-daction/foret/gestion-durable/FSC) / [PEFC](https://www.pefc-france.org/articles/papier-certifie-garantie-contre-la-deforestation/) (y compris mouchoirs, papier toilette et sopalin)
     * produits ménagers écologiques
