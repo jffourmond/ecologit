@@ -52,10 +52,8 @@
   * [parrainer un lama](https://ahuana.com/fr/l-association/nous-soutenir/) :-)
 * faire un don à une asso (déductible à 66%) :
   * [Les Amis de la Terre](http://www.amisdelaterre.org/Je-fais-un-don-aux-Amis-de-la.html)
-  * [Fondation pour la Nature et l'Homme](https://dons.fnh.org/fnh_portail_responsive/?montant=0&typeDon=regulier)
   * [Greenpeace](https://faire-un-don.greenpeace.fr/)
   * [Oxfam](http://www.oxfamfrance.org/donner/donner_oxfam.htm)
-  * [WWF](https://faireundon.wwf.fr/b/mon-don)
 * suivre des pages écolo sur les réseaux sociaux et
   * liker des posts
   * partager des posts
