@@ -48,7 +48,7 @@
 * cadeaux : offrir (et se faire offrir) des dons plutôt que des objets
   * [cadons Fondation pour la Nature et l'Homme](http://boutique-solidaire.com/fnh/69-cadons)
   * [dons WWF](https://boutique.wwf.fr/17-agir-autrement)
-  * [Reforestaction](https://www.reforestaction.com/)
+  * [offrir un arbre avec Reforestaction](https://www.reforestaction.com/)
   * [parrainer un lama](https://ahuana.com/fr/l-association/nous-soutenir/) :-)
 * faire un don à une asso (déductible à 66%) :
   * [Les Amis de la Terre](http://www.amisdelaterre.org/Je-fais-un-don-aux-Amis-de-la.html)
