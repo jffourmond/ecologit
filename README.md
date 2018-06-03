@@ -44,6 +44,7 @@
 * shopping
   * privilégier les achats d'occasion
   * baskets : acheter des [Veja](https://project.veja-store.com/fr/intro/)
+  * [jeans](https://www.francetvinfo.fr/monde/environnement/consommation-le-jeans-est-un-des-produits-les-plus-polluants-au-monde_1264025.html) : recoudre (ou faire recoudre) ses jeans troués au lieu d'en acheter de nouveaux
 * cadeaux : offrir (et se faire offrir) des dons plutôt que des objets
   * [cadons Fondation pour la Nature et l'Homme](http://boutique-solidaire.com/fnh/69-cadons)
   * [dons WWF](https://boutique.wwf.fr/17-agir-autrement)
