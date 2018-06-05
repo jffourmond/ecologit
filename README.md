@@ -55,8 +55,7 @@
   * [Greenpeace](https://faire-un-don.greenpeace.fr/)
   * [Oxfam](http://www.oxfamfrance.org/donner/donner_oxfam.htm)
 * suivre des pages écolo sur les réseaux sociaux et
-  * liker des posts
-  * partager des posts
+  * liker / partager des posts
   * signer des pétitions
 * voter pour un parti écolo
-* chercher d'autres idées ([Enercoop](https://transition.enercoop.fr/EbooK) / [Solidarité climatique](https://actions.solidariteclimatique.org/actions/toutes) / [Verdura](http://www.vedura.fr/) / [Zei](https://zei-world.com/fr/earn)) et forker ce projet
+* chercher d'autres idées ([Enercoop](https://transition.enercoop.fr/EbooK) / [Les gestes éclairés](https://www.lesgesteseclaires.com/) / [Solidarité climatique](https://actions.solidariteclimatique.org/actions/toutes) / [Verdura](http://www.vedura.fr/) / [Zei](https://zei-world.com/fr/earn)) et forker ce projet
