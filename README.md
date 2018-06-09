@@ -36,6 +36,7 @@
 * sur internet
   * essayer un moteur de recherche écolo : [Ecosia](https://www.ecosia.org/) / [Lilo](https://www.lilo.org/fr/)
   * [mettre ses playlists Spotify en cache](https://mic.com/articles/104716/the-one-thing-everyone-is-missing-about-streaming-music#.1uzwNPntT)  
+  * [arrêter d'envoyer des photos par e-mail](https://start.lesechos.fr/actu-entreprises/societe/les-gestes-a-adopter-pour-etre-ecolo-sur-le-web-9365.php)
 * en déplacement
   * prendre le train plutôt que l'avion même si c'est plus long
   * essayer [Uber Green](https://www.uber.com/fr/ride/ubergreen/) : même prix que Uber X
