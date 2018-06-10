@@ -25,7 +25,7 @@
     * papier recyclé ou labellisé [FSC](https://www.wwf.fr/champs-daction/foret/gestion-durable/FSC) / [PEFC](https://www.pefc-france.org/articles/papier-certifie-garantie-contre-la-deforestation/) (y compris mouchoirs, papier toilette et sopalin)
     * produits ménagers écologiques
   * éviter les fruits venant de loin
-  * acheter des piles rechargeables
+  * [acheter des piles rechargeables](https://www.zdnet.fr/blogs/greenit/piles-rechargeables-32-fois-moins-nocives-pour-l-environnement-39711422.htm)
 * en cuisine : [mettre des couvercles sur les casseroles](https://www.lenergietoutcompris.fr/eco-gestes/je-mets-un-couvercle-sur-la-casserole-quand-je-cuisine)
 *  fumeurs : [ne pas jeter ses mégots par terre](https://amisdewarneton.org/2017/11/03/la-traversee-dramatique-du-megot-du-trottoir-a-la-mer/) et acheter un cendrier de poche
 * au boulot
