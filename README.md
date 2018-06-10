@@ -39,7 +39,7 @@
   * [mettre ses sites préférés en favoris](https://start.lesechos.fr/actu-entreprises/societe/les-gestes-a-adopter-pour-etre-ecolo-sur-le-web-9365.php)
   * [arrêter d'envoyer des photos par e-mail](https://start.lesechos.fr/actu-entreprises/societe/les-gestes-a-adopter-pour-etre-ecolo-sur-le-web-9365.php)
 * en déplacement
-  * prendre le train plutôt que l'avion même si c'est plus long
+  * [prendre le train plutôt que la voiture ou l'avion](https://www.consoglobe.com/les-14-modes-de-transport-les-moins-polluants-cg)
   * essayer [Uber Green](https://www.uber.com/fr/ride/ubergreen/) : même prix que Uber X
   * prendre les escaliers plutôt que l'ascenseur
   * compenser ses émissions de CO2
