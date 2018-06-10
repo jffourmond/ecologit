@@ -42,7 +42,6 @@
   * [prendre le train plutôt que la voiture ou l'avion](https://www.consoglobe.com/les-14-modes-de-transport-les-moins-polluants-cg)
   * essayer [Uber Green](https://www.uber.com/fr/ride/ubergreen/) : même prix que Uber X
   * [prendre les escaliers plutôt que l'ascenseur](https://www.consoglobe.com/ascenseur-escalier-prefere-environnement-3577-cg)
-  * [couper son chauffe-eau avant de partir en vacances](https://www.compteepargneco2.com/eco-gestes/logement/eau/eteindre-chauffe-eau-absence-prolongee/)
   * [compenser ses émissions de CO2](https://www.consoglobe.com/compensation-carbone-bonne-idee-cg)
 * shopping
   * privilégier les achats d'occasion
