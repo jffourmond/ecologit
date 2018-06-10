@@ -42,7 +42,7 @@
   * [prendre le train plutôt que la voiture ou l'avion](https://www.consoglobe.com/les-14-modes-de-transport-les-moins-polluants-cg)
   * essayer [Uber Green](https://www.uber.com/fr/ride/ubergreen/) : même prix que Uber X
   * prendre les escaliers plutôt que l'ascenseur
-  * compenser ses émissions de CO2
+  * [compenser ses émissions de CO2](https://www.consoglobe.com/compensation-carbone-bonne-idee-cg)
 * shopping
   * privilégier les achats d'occasion
   * baskets : acheter des [Veja](https://project.veja-store.com/fr/intro/)
