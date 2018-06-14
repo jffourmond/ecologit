@@ -9,7 +9,7 @@
   *  vêtements et textiles usés ou non : [chez Emmaüs](http://emmaus-france.org/ou-donner-ou-acheter/) ou [dans une borne Relais](https://www.lerelais.org/oudonner.php)
   *  appareils électroniques en état de marche ou non : [chez Emmaüs](http://emmaus-france.org/ou-donner-ou-acheter/) ou [Darty](https://www.darty.com/services/solutions/savoir_faire/le-recyclage-de-votre-ancien-appareil/recyclez-vos-appareils-avec-darty) / [Fnac](https://www.fnac.com/recyclage)
   *  cartouches d'encre : retour gratuit chez [Brother](https://www.brother.fr/brother-earth/recyclage-de-cartouches) / [Canon](https://www.canon.fr/recycling/) / [Epson](http://content.epson-europe.com/environment/ink_cartridges_and_the_environment/be/index.htm) / [HP](https://h30248.www3.hp.com/recycle/ereturns/return_type-hpe.asp?__cc=fr&__la=fr) / [Lexmark](https://www.lexmark.com/fr_ca/products/supplies-and-accessories/collection-and-recycling-program/lccp.html) / [Xerox](https://www.xerox.fr/about-xerox/recycling/frfr.html)
-  *  ampoules et piles : dans tous les magasins qui vendent des ampoules et des piles
+  *  ampoules et piles : dans tous les magasins qui vendent des [ampoules](https://www.recylum.com/particuliers/) et des [piles](https://www.jerecyclemespiles.com/)
   *  livres : [dans une boutique Oxfam](http://www.oxfamfrance.org/magasins/nos-adresses) ou à [La Librairie Solidaire](http://www.lamaisonducanal.fr/la-librairie-solidaire/)
   *  [capsules Nespresso](https://www.nespresso.com/entreprise/points-de-recyclage.html)
 * au supermarché
