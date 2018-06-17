@@ -22,8 +22,8 @@
   * acheter des produits respectueux de l'environnement
     * [produits alimentaires bio](http://www.fao.org/organicag/oa-faq/oa-faq6/fr/)
     * [produits sans huile de palme](https://www.fne.asso.fr/actualites/huile-de-palme-un-rapport-contre-la-d%C3%A9forestation)
-    * papier recyclé ou labellisé [FSC](https://www.wwf.fr/champs-daction/foret/gestion-durable/FSC) / [PEFC](https://www.pefc-france.org/articles/papier-certifie-garantie-contre-la-deforestation/) (y compris mouchoirs, papier toilette et sopalin)
-    * produits ménagers labellisés [Nature&Progrès ou Ecocert](https://www.femmeactuelle.fr/deco/maison-pratique/produits-menagers-ecolos-labels-fier-32231)
+    * papier recyclé ou labellisé [FSC / PEFC](http://www.natura-sciences.com/environnement/fsc-pefc-durable689.html) (y compris mouchoirs, papier toilette et sopalin)
+    * produits ménagers labellisés [Nature & Progrès ou Ecocert](https://www.femmeactuelle.fr/deco/maison-pratique/produits-menagers-ecolos-labels-fier-32231)
   * éviter les fruits venant de loin
   * [acheter des piles rechargeables](https://www.zdnet.fr/blogs/greenit/piles-rechargeables-32-fois-moins-nocives-pour-l-environnement-39711422.htm)
 * en cuisine : [mettre des couvercles sur les casseroles](https://www.lenergietoutcompris.fr/eco-gestes/je-mets-un-couvercle-sur-la-casserole-quand-je-cuisine)
