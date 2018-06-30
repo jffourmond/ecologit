@@ -16,7 +16,7 @@
   * prendre un sac réutilisable
   * acheter des produits avec moins d'emballage
     * en vrac si possible (riz, pates, noix de cajou...)
-    * remplacer le gel douche par du savon
+    * [remplacer le gel douche par du savon](https://www.wearethedrops.com/blog/2018/01/23/savon/)
     * préférer le verre au plastique
     * savon et lessive liquide : garder un flacon et acheter des recharges
   * acheter des produits respectueux de l'environnement
