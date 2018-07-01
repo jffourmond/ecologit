@@ -54,7 +54,7 @@
 * faire un don à une asso (déductible à 66%) :
   * [Les Amis de la Terre](http://www.amisdelaterre.org/Je-fais-un-don-aux-Amis-de-la.html)
   * [Greenpeace](https://faire-un-don.greenpeace.fr/)
-  * [Oxfam](http://www.oxfamfrance.org/donner/donner_oxfam.htm)
+* investir dans des projets d'énergie renouvelable en France avec [Énergie Partagée](https://energie-partagee.org/)  
 * suivre des pages écolo sur les réseaux sociaux et
   * liker / partager des posts
   * signer des pétitions
