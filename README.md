@@ -24,7 +24,7 @@
     * [produits sans huile de palme](https://www.fne.asso.fr/actualites/huile-de-palme-un-rapport-contre-la-d%C3%A9forestation)
     * [fruits et légumes locaux ET de saison](https://e-rse.net/consommer-local-ecologie-environnement-21870/#gs.Meb14EQ)
     * papier recyclé ou labellisé [FSC / PEFC](http://www.natura-sciences.com/environnement/fsc-pefc-durable689.html) (y compris mouchoirs, papier toilette et sopalin)
-    * produits ménagers labellisés [Nature & Progrès ou Ecocert](https://www.femmeactuelle.fr/deco/maison-pratique/produits-menagers-ecolos-labels-fier-32231)
+    * produits ménagers labellisés [Ecocert ou Nature & Progrès](https://www.femmeactuelle.fr/deco/maison-pratique/produits-menagers-ecolos-labels-fier-32231)
   * [acheter des piles rechargeables](https://www.zdnet.fr/blogs/greenit/piles-rechargeables-32-fois-moins-nocives-pour-l-environnement-39711422.htm)
 * en cuisine : [mettre des couvercles sur les casseroles](https://www.lenergietoutcompris.fr/eco-gestes/je-mets-un-couvercle-sur-la-casserole-quand-je-cuisine)
 *  fumeurs : [ne pas jeter ses mégots par terre](https://amisdewarneton.org/2017/11/03/la-traversee-dramatique-du-megot-du-trottoir-a-la-mer/) et acheter un cendrier de poche
@@ -45,7 +45,7 @@
 * shopping
   * privilégier les achats d'occasion
   * baskets : acheter des [Veja](https://project.veja-store.com/fr/intro/)
-  * [jeans](https://www.francetvinfo.fr/monde/environnement/consommation-le-jeans-est-un-des-produits-les-plus-polluants-au-monde_1264025.html) : recoudre (ou faire recoudre) ses jeans troués au lieu d'en acheter de nouveaux
+  * [jeans](https://www.francetvinfo.fr/monde/environnement/consommation-le-jeans-est-un-des-produits-les-plus-polluants-au-monde_1264025.html) : recoudre (ou faire recoudre) ses jeans troués
 * cadeaux : offrir (et se faire offrir) des dons plutôt que des objets
   * [cadons Fondation pour la Nature et l'Homme](http://boutique-solidaire.com/fnh/69-cadons)
   * [dons WWF](https://boutique.wwf.fr/17-agir-autrement)
