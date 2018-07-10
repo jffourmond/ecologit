@@ -46,6 +46,7 @@
   * privilégier les achats d'occasion
   * baskets : acheter des [Veja](https://project.veja-store.com/fr/intro/)
   * [jeans](https://www.francetvinfo.fr/monde/environnement/consommation-le-jeans-est-un-des-produits-les-plus-polluants-au-monde_1264025.html) : recoudre (ou faire recoudre) ses jeans troués
+* investir dans des projets d'énergie renouvelable en France avec [Énergie Partagée](https://energie-partagee.org/)  
 * cadeaux : offrir (et se faire offrir) des dons plutôt que des objets
   * [cadons Fondation pour la Nature et l'Homme](http://boutique-solidaire.com/fnh/69-cadons)
   * [dons WWF](https://boutique.wwf.fr/17-agir-autrement)
@@ -54,7 +55,6 @@
 * faire un don à une asso (déductible à 66%) :
   * [Les Amis de la Terre](http://www.amisdelaterre.org/Je-fais-un-don-aux-Amis-de-la.html)
   * [Greenpeace](https://faire-un-don.greenpeace.fr/)
-* investir dans des projets d'énergie renouvelable en France avec [Énergie Partagée](https://energie-partagee.org/)  
 * suivre des pages écolo sur les réseaux sociaux et
   * liker / partager des posts
   * signer des pétitions
