@@ -2,7 +2,10 @@
 
 * quitter EDF et passer chez un fournisseur d'électricité 100% renouvelable
   *  [Enercoop](https://www.enercoop.fr/)
-  *  [ekWateur](https://ekwateur.fr/) (propose aussi du gaz renouvelable)
+  *  [ekWateur](https://ekwateur.fr/) (propose aussi du gaz renouvelable)  
+* refuser de financer les énergies fossiles en mettant
+  * ses assurances [à la MAIF](https://www.enercoop.fr/content/quand-lenergie-militante-rencontre-lassureur-militant)
+  * ses économies [à la NEF](https://www.lanef.com/particuliers/epargner-solidaire/) ou [au Crédit Coopératif](https://www.credit-cooperatif.coop/Particuliers/Epargner-et-placer/)
 *  [manger moins de viande (et surtout moins de boeuf et d'agneau)](https://www.lemonde.fr/les-decodeurs/article/2015/10/29/la-viande-a-aussi-un-impact-majeur-sur-la-planete_4799570_4355770.html)
 * recycler au lieu de jeter
   *  médicaments périmés ou non : [à la pharmacie](https://www.cyclamed.org/pourquoi/quoi-rapporter)
