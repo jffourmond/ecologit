@@ -1,5 +1,7 @@
 # ecologit
 
+quelques gestes pour réduire son empreinte écologique
+
 * quitter EDF et passer chez un fournisseur d'électricité 100% renouvelable
   *  [Enercoop](https://www.enercoop.fr/)
   *  [ekWateur](https://ekwateur.fr/) (propose aussi du gaz renouvelable)  
