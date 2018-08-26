@@ -32,7 +32,7 @@ quelques gestes pour réduire son empreinte écologique
     * savon et lessive liquide : garder un flacon et acheter des recharges
   * [acheter des piles rechargeables](https://www.zdnet.fr/blogs/greenit/piles-rechargeables-32-fois-moins-nocives-pour-l-environnement-39711422.htm)
 * en cuisine : [mettre des couvercles sur les casseroles](https://www.lenergietoutcompris.fr/eco-gestes/je-mets-un-couvercle-sur-la-casserole-quand-je-cuisine)
-*  fumeurs : [ne pas jeter ses mégots par terre](https://amisdewarneton.org/2017/11/03/la-traversee-dramatique-du-megot-du-trottoir-a-la-mer/) et acheter un cendrier de poche
+*  fumeurs : [ne pas jeter ses mégots par terre](https://mobile.lemonde.fr/planete/article/2018/07/17/fumer-nuit-gravement-a-la-sante-des-poissons_5332789_3244.html) et acheter un cendrier de poche
 * au boulot
   * amener une tasse au lieu d'utiliser des gobelets jetables
   * amener des couverts et refuser les couverts jetables le midi
