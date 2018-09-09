@@ -9,18 +9,10 @@ quelques gestes pour réduire son empreinte écologique
 * quitter EDF et passer chez un fournisseur d'électricité 100% renouvelable
   *  [Enercoop](https://www.enercoop.fr/)
   *  [ekWateur](https://ekwateur.fr/) (propose aussi du gaz renouvelable)  
-* recycler au lieu de jeter
-  *  médicaments périmés ou non : [à la pharmacie](https://www.cyclamed.org/pourquoi/quoi-rapporter)
-  *  vêtements et textiles usés ou non : [chez Emmaüs](http://emmaus-france.org/ou-donner-ou-acheter/) ou [dans une borne Relais](https://www.lerelais.org/oudonner.php)
-  *  appareils électroniques en état de marche ou non : [chez Emmaüs](http://emmaus-france.org/ou-donner-ou-acheter/) ou [Darty](https://www.darty.com/services/solutions/savoir_faire/le-recyclage-de-votre-ancien-appareil/recyclez-vos-appareils-avec-darty) / [Fnac](https://www.fnac.com/recyclage)
-  *  cartouches d'encre : retour gratuit chez [Brother](https://www.brother.fr/brother-earth/recyclage-de-cartouches) / [Canon](https://www.canon.fr/recycling/) / [Epson](http://content.epson-europe.com/environment/ink_cartridges_and_the_environment/be/index.htm) / [HP](https://h30248.www3.hp.com/recycle/ereturns/return_type-hpe.asp?__cc=fr&__la=fr) / [Lexmark](https://www.lexmark.com/fr_ca/products/supplies-and-accessories/collection-and-recycling-program/lccp.html) / [Xerox](https://www.xerox.fr/about-xerox/recycling/frfr.html)
-  *  ampoules et piles : dans tous les magasins qui vendent des [ampoules](https://www.recylum.com/particuliers/) et des [piles](https://www.jerecyclemespiles.com/)
-  *  livres : [dans une boutique Oxfam](http://www.oxfamfrance.org/magasins/nos-adresses) ou à [La Librairie Solidaire](http://www.lamaisonducanal.fr/la-librairie-solidaire/)
-  *  [capsules Nespresso](https://www.nespresso.com/entreprise/points-de-recyclage.html)
 * au supermarché
   * acheter des produits respectueux de l'environnement
+    * [produits sans huile de palme](http://www.liberation.fr/futurs/2015/11/02/huile-de-palme-et-deforestation-les-poumons-de-la-planete-partent-en-fumee-les-notres-souffrent_1410599)
     * [produits alimentaires bio](http://www.fao.org/organicag/oa-faq/oa-faq6/fr/)
-    * [produits sans huile de palme](https://www.fne.asso.fr/actualites/huile-de-palme-un-rapport-contre-la-d%C3%A9forestation)
     * [fruits et légumes locaux ET de saison](https://e-rse.net/consommer-local-ecologie-environnement-21870/#gs.Meb14EQ)
     * papier recyclé ou labellisé [FSC / PEFC](http://www.natura-sciences.com/environnement/fsc-pefc-durable689.html) (y compris mouchoirs, papier toilette et sopalin)
     * produits ménagers labellisés [Ecocert ou Nature & Progrès](https://www.femmeactuelle.fr/deco/maison-pratique/produits-menagers-ecolos-labels-fier-32231)
@@ -31,6 +23,14 @@ quelques gestes pour réduire son empreinte écologique
     * préférer le verre au plastique
     * savon et lessive liquide : garder un flacon et acheter des recharges
   * [acheter des piles rechargeables](https://www.zdnet.fr/blogs/greenit/piles-rechargeables-32-fois-moins-nocives-pour-l-environnement-39711422.htm)
+* recycler au lieu de jeter
+  *  médicaments périmés ou non : [à la pharmacie](https://www.cyclamed.org/pourquoi/quoi-rapporter)
+  *  vêtements et textiles usés ou non : [chez Emmaüs](http://emmaus-france.org/ou-donner-ou-acheter/) ou [dans une borne Relais](https://www.lerelais.org/oudonner.php)
+  *  appareils électroniques en état de marche ou non : [chez Emmaüs](http://emmaus-france.org/ou-donner-ou-acheter/) ou [Darty](https://www.darty.com/services/solutions/savoir_faire/le-recyclage-de-votre-ancien-appareil/recyclez-vos-appareils-avec-darty) / [Fnac](https://www.fnac.com/recyclage)
+  *  cartouches d'encre : retour gratuit chez [Brother](https://www.brother.fr/brother-earth/recyclage-de-cartouches) / [Canon](https://www.canon.fr/recycling/) / [Epson](http://content.epson-europe.com/environment/ink_cartridges_and_the_environment/be/index.htm) / [HP](https://h30248.www3.hp.com/recycle/ereturns/return_type-hpe.asp?__cc=fr&__la=fr) / [Lexmark](https://www.lexmark.com/fr_ca/products/supplies-and-accessories/collection-and-recycling-program/lccp.html) / [Xerox](https://www.xerox.fr/about-xerox/recycling/frfr.html)
+  *  ampoules et piles : dans tous les magasins qui vendent des [ampoules](https://www.recylum.com/particuliers/) et des [piles](https://www.jerecyclemespiles.com/)
+  *  livres : [dans une boutique Oxfam](http://www.oxfamfrance.org/magasins/nos-adresses) ou à [La Librairie Solidaire](http://www.lamaisonducanal.fr/la-librairie-solidaire/)
+  *  [capsules Nespresso](https://www.nespresso.com/entreprise/points-de-recyclage.html)
 * en cuisine : [mettre des couvercles sur les casseroles](https://www.lenergietoutcompris.fr/eco-gestes/je-mets-un-couvercle-sur-la-casserole-quand-je-cuisine)
 *  fumeurs : [ne pas jeter ses mégots par terre](https://mobile.lemonde.fr/planete/article/2018/07/17/fumer-nuit-gravement-a-la-sante-des-poissons_5332789_3244.html) et acheter un cendrier de poche
 * au boulot
