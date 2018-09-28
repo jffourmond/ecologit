@@ -2,13 +2,11 @@
 
 quelques gestes pour réduire son empreinte écologique
 
+* passer chez un [fournisseur d'électricité 100% renouvelable](https://www.guide-electricite-verte.fr/) : [Enercoop](http://www.enercoop.fr/), [Energie d'Ici](https://www.energiedici.fr/) ou [Ilek](https://www.ilek.fr/)
 * refuser de financer les énergies fossiles en mettant
   * ses économies [au Crédit Coopératif](https://www.credit-cooperatif.coop/Particuliers/Epargner-et-placer/) ou [à la NEF](https://www.lanef.com/particuliers/epargner-solidaire/)
   * ses assurances [à la MAIF](https://www.enercoop.fr/content/quand-lenergie-militante-rencontre-lassureur-militant)
 *  [manger moins de viande (et surtout moins de boeuf et d'agneau)](https://www.lemonde.fr/les-decodeurs/article/2015/10/29/la-viande-a-aussi-un-impact-majeur-sur-la-planete_4799570_4355770.html)
-* quitter EDF et passer chez un fournisseur d'électricité 100% renouvelable
-  *  [Enercoop](https://www.enercoop.fr/)
-  *  [ekWateur](https://ekwateur.fr/) (propose aussi du gaz renouvelable)  
 * au supermarché
   * acheter des produits respectueux de l'environnement
     * [produits sans huile de palme](http://www.liberation.fr/futurs/2015/11/02/huile-de-palme-et-deforestation-les-poumons-de-la-planete-partent-en-fumee-les-notres-souffrent_1410599)
@@ -32,6 +30,7 @@ quelques gestes pour réduire son empreinte écologique
   *  livres : [dans une boutique Oxfam](http://www.oxfamfrance.org/magasins/nos-adresses) ou à [La Librairie Solidaire](http://www.lamaisonducanal.fr/la-librairie-solidaire/)
   *  [capsules Nespresso](https://www.nespresso.com/entreprise/points-de-recyclage.html)
 *  fumeurs : [ne pas jeter ses mégots par terre](https://mobile.lemonde.fr/planete/article/2018/07/17/fumer-nuit-gravement-a-la-sante-des-poissons_5332789_3244.html) et acheter un cendrier de poche
+* gaz : passer chez [ekWateur](https://ekwateur.fr/100-pour-100-renouvelable)
 * à la maison
   * [mettre des couvercles sur les casseroles](https://www.lenergietoutcompris.fr/eco-gestes/je-mets-un-couvercle-sur-la-casserole-quand-je-cuisine)
   * [éteindre box internet et autres appareils électriques la nuit](https://www.linfodurable.fr/conso/appareils-connectes-comment-reduire-leur-empreinte-energetique-3632) à l'aide d'une prise télécommandée
