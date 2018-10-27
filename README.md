@@ -54,7 +54,6 @@ quelques gestes pour réduire son empreinte écologique
   * [jeans](https://www.francetvinfo.fr/monde/environnement/consommation-le-jeans-est-un-des-produits-les-plus-polluants-au-monde_1264025.html) : recoudre (ou faire recoudre) ses jeans troués
 * cadeaux : offrir (et se faire offrir) des dons plutôt que des objets
   * [cadons Fondation pour la Nature et l'Homme](http://boutique-solidaire.com/fnh/69-cadons)
-  * [dons WWF](https://boutique.wwf.fr/17-agir-autrement)
   * [offrir un arbre avec Reforestaction](https://www.reforestaction.com/)
   * [parrainer un lama](https://ahuana.com/fr/l-association/nous-soutenir/) :-)
 * investir dans des projets d'énergie renouvelable en France avec [Énergie Partagée](https://energie-partagee.org/)  
