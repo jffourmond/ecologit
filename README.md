@@ -18,8 +18,8 @@ quelques gestes pour réduire son empreinte écologique
   * prendre un sac réutilisable
   * acheter des produits avec moins d'emballage
     * en vrac si possible (riz, pates, noix de cajou...)
+    * préférer le verre au plastique (yahourts, compotes, jus, eau gazeuse...)
     * [remplacer le gel douche par du savon](https://www.wearethedrops.com/blog/2018/01/23/savon/)
-    * préférer le verre au plastique
     * savon et lessive liquide : garder un flacon et acheter des recharges
   * [acheter des piles rechargeables](https://www.zdnet.fr/blogs/greenit/piles-rechargeables-32-fois-moins-nocives-pour-l-environnement-39711422.htm)
 * recycler au lieu de jeter
