@@ -37,7 +37,7 @@ quelques gestes pour réduire son empreinte écologique
 * au boulot
   * amener une tasse au lieu d'utiliser des gobelets jetables
   * amener des couverts et refuser les couverts jetables le midi
-  * [acheter une gourde](https://boutique.wwf.fr/maison/540-gourde-bleue.html) au lieu d'acheter des bouteilles d'eau en plastique
+  * [acheter une gourde](https://lemballageecologique.com/2016/11/28/acheter-une-gourde-bouteille-reutilisable/) au lieu d'acheter des bouteilles d'eau en plastique
   * ramener ses déchets recyclables à la maison en l'absence de tri
   * éteindre son PC et son écran en partant
 * sur internet
