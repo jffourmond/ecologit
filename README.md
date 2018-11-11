@@ -50,7 +50,7 @@ quelques gestes pour réduire son empreinte écologique
   * [compenser ses émissions de CO2](https://www.consoglobe.com/compensation-carbone-bonne-idee-cg)
 * shopping
   * privilégier les achats d'occasion
-  * [acheter des vêtements en coton bio](http://www.vedura.fr/guide/eco-geste/choisissez-vetement-coton-bio)
+  * [chercher des vêtements en coton bio](http://www.vedura.fr/guide/eco-geste/choisissez-vetement-coton-bio)
   * recoudre (ou faire recoudre) ses [jeans](https://www.francetvinfo.fr/monde/environnement/consommation-le-jeans-est-un-des-produits-les-plus-polluants-au-monde_1264025.html) troués
   * baskets : acheter des [Veja](https://project.veja-store.com/fr/intro/)
 * cadeaux : offrir (et se faire offrir) des dons plutôt que des objets
