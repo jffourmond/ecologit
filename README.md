@@ -32,6 +32,11 @@ quelques gestes pour réduire son empreinte écologique
   *  livres : [dans une boutique Oxfam](http://www.oxfamfrance.org/magasins/nos-adresses) ou à [La Librairie Solidaire](http://www.lamaisonducanal.fr/la-librairie-solidaire/)
   *  [capsules Nespresso](https://www.nespresso.com/entreprise/points-de-recyclage.html)
 *  fumeurs : [ne pas jeter ses mégots par terre](https://mobile.lemonde.fr/planete/article/2018/07/17/fumer-nuit-gravement-a-la-sante-des-poissons_5332789_3244.html) et acheter un cendrier de poche
+* shopping
+  * privilégier les achats d'occasion
+  * chercher des vêtements en [coton bio](http://www.vedura.fr/guide/eco-geste/choisissez-vetement-coton-bio)
+  * recoudre (ou faire recoudre) ses [jeans](https://www.francetvinfo.fr/monde/environnement/consommation-le-jeans-est-un-des-produits-les-plus-polluants-au-monde_1264025.html) troués
+  * baskets : acheter des [Veja](https://project.veja-store.com/fr/intro/)
 * à la maison
   * [mettre des couvercles sur les casseroles](https://www.lenergietoutcompris.fr/eco-gestes/je-mets-un-couvercle-sur-la-casserole-quand-je-cuisine)
   * [éteindre box internet et autres appareils électriques la nuit](https://www.linfodurable.fr/conso/appareils-connectes-comment-reduire-leur-empreinte-energetique-3632) à l'aide d'une prise télécommandée
@@ -49,11 +54,6 @@ quelques gestes pour réduire son empreinte écologique
   * [prendre le train plutôt que la voiture ou l'avion](https://www.consoglobe.com/les-14-modes-de-transport-les-moins-polluants-cg)
   * essayer [Uber Green](https://www.uber.com/fr/ride/ubergreen/) : même prix que Uber X
   * [compenser ses émissions de CO2](https://www.consoglobe.com/compensation-carbone-bonne-idee-cg)
-* shopping
-  * privilégier les achats d'occasion
-  * chercher des vêtements en [coton bio](http://www.vedura.fr/guide/eco-geste/choisissez-vetement-coton-bio)
-  * recoudre (ou faire recoudre) ses [jeans](https://www.francetvinfo.fr/monde/environnement/consommation-le-jeans-est-un-des-produits-les-plus-polluants-au-monde_1264025.html) troués
-  * baskets : acheter des [Veja](https://project.veja-store.com/fr/intro/)
 * cadeaux : offrir (et se faire offrir) des dons plutôt que des objets
   * [cadons Fondation pour la Nature et l'Homme](http://boutique-solidaire.com/fnh/69-cadons)
   * [offrir un arbre avec Reforestaction](https://www.reforestaction.com/)
