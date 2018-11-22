@@ -46,9 +46,10 @@ quelques gestes pour réduire son empreinte écologique
   * ramener ses déchets recyclables à la maison en l'absence de tri
   * éteindre son PC et son écran en partant
 * sur internet
-  * essayer un moteur de recherche écolo : [Ecosia](https://www.ecosia.org/) / [Lilo](https://www.lilo.org/fr/)
+  * [supprimer ses vieux mails avec pièces jointes](http://www.lefigaro.fr/secteur/high-tech/2016/11/04/32001-20161104ARTFIG00113-plus-vous-stockez-vos-mails-plus-vous-polluez-la-planete.php)
   * [mettre ses playlists Spotify en cache](https://mic.com/articles/104716/the-one-thing-everyone-is-missing-about-streaming-music#.1uzwNPntT)  
   * [mettre ses sites préférés en favoris](https://start.lesechos.fr/actu-entreprises/societe/les-gestes-a-adopter-pour-etre-ecolo-sur-le-web-9365.php)
+  * essayer un moteur de recherche écolo : [Ecosia](https://www.ecosia.org/) / [Lilo](https://www.lilo.org/fr/)
 * en déplacement
   * [prendre le train plutôt que la voiture ou l'avion](https://www.consoglobe.com/les-14-modes-de-transport-les-moins-polluants-cg)
   * essayer [Uber Green](https://www.uber.com/fr/ride/ubergreen/) : même prix que Uber X
