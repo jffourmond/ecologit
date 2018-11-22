@@ -66,5 +66,7 @@ quelques gestes pour réduire son empreinte écologique
   * liker / partager des posts
   * signer des pétitions
 * voter pour un parti écolo
-* chercher d'autres idées : [Ça commence par moi](https://www.cacommenceparmoi.org/) / [Enercoop](https://transition.enercoop.fr/EbooK) / [Les gestes éclairés](https://www.lesgesteseclaires.com/) / [Solidarité climatique](https://actions.solidariteclimatique.org/actions/toutes) / [Verdura](http://www.vedura.fr/guide/eco-geste/) / [WAG](https://www.wwf.fr/agir-au-quotidien/we-act-for-good)
+* chercher d'autres idées : 
+  * sur le web : [Ça commence par moi](https://www.cacommenceparmoi.org/) / [Enercoop](https://transition.enercoop.fr/EbooK) / [Les gestes éclairés](https://www.lesgesteseclaires.com/) / [Solidarité climatique](https://actions.solidariteclimatique.org/actions/toutes) / [Verdura](http://www.vedura.fr/guide/eco-geste/)
+  * sur une appli : [WAG](https://www.wwf.fr/agir-au-quotidien/we-act-for-good) / [90 jours](https://90jours.org/)
 * forker ce projet
