@@ -68,5 +68,5 @@ quelques gestes pour réduire son empreinte écologique
 * voter pour un parti écolo
 * chercher d'autres idées : 
   * sur le web : [Ça commence par moi](https://www.cacommenceparmoi.org/) / [Enercoop](https://transition.enercoop.fr/EbooK) / [Les gestes éclairés](https://www.lesgesteseclaires.com/) / [Solidarité climatique](https://actions.solidariteclimatique.org/actions/toutes) / [Verdura](http://www.vedura.fr/guide/eco-geste/)
-  * sur une appli : [WAG](https://www.wwf.fr/agir-au-quotidien/we-act-for-good) / [90 jours](https://90jours.org/)
+  * sur une appli : [Ocean's Zero](https://www.surfrider.eu/oceanszero/) / [WAG](https://www.wwf.fr/agir-au-quotidien/we-act-for-good) / [90 jours](https://90jours.org/)
 * forker ce projet
