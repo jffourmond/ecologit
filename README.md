@@ -13,7 +13,7 @@ quelques gestes pour réduire son empreinte écologique
     * [produits sans huile de palme](http://www.liberation.fr/futurs/2015/11/02/huile-de-palme-et-deforestation-les-poumons-de-la-planete-partent-en-fumee-les-notres-souffrent_1410599)
     * [produits alimentaires bio](http://www.fao.org/organicag/oa-faq/oa-faq6/fr/)
     * [fruits et légumes locaux ET de saison](https://e-rse.net/consommer-local-ecologie-environnement-21870/#gs.Meb14EQ)
-    * papier recyclé ou labellisé [FSC / PEFC](http://www.natura-sciences.com/environnement/fsc-pefc-durable689.html) (y compris mouchoirs, papier toilette et sopalin)
+    * papier recyclé ou labellisé [FSC](https://www.consoglobe.com/label-fsc-certification-cg) [~~ou PEFC~~](http://www.amisdelaterre.org/Les-Amis-de-la-Terre-denoncent-le.html) (y compris mouchoirs, papier toilette et sopalin)
     * produits ménagers labellisés [Ecocert ou Nature & Progrès](https://www.femmeactuelle.fr/deco/maison-pratique/produits-menagers-ecolos-labels-fier-32231)
   * prendre un sac réutilisable
   * acheter des produits avec moins d'emballage
