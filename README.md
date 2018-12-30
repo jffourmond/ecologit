@@ -21,6 +21,12 @@ quelques gestes pour réduire son empreinte écologique
     * [remplacer le gel douche par du savon](https://www.wearethedrops.com/blog/2018/01/23/savon/)
     * savon et lessive liquide : garder un flacon et acheter des recharges
   * [acheter des piles rechargeables](https://www.zdnet.fr/blogs/greenit/piles-rechargeables-32-fois-moins-nocives-pour-l-environnement-39711422.htm)
+* shopping
+  * privilégier les achats d'occasion
+  * [acheter moins de vêtements](http://www.qqf.fr/infographie/59/la-mode-sans-dessus-dessous)
+  * chercher des vêtements en [coton bio](http://www.vedura.fr/guide/eco-geste/choisissez-vetement-coton-bio)
+  * recoudre (ou faire recoudre) ses [jeans](https://www.francetvinfo.fr/monde/environnement/consommation-le-jeans-est-un-des-produits-les-plus-polluants-au-monde_1264025.html) troués
+  * baskets : acheter des [Veja](https://project.veja-store.com/fr/intro/)
 * recycler au lieu de jeter
   *  médicaments périmés ou non : [à la pharmacie](https://www.cyclamed.org/pourquoi/quoi-rapporter)
   *  vêtements et textiles usés ou non : [chez Emmaüs](http://emmaus-france.org/ou-donner-ou-acheter/) ou [dans une borne Relais](https://www.lerelais.org/oudonner.php)
@@ -31,11 +37,6 @@ quelques gestes pour réduire son empreinte écologique
   *  livres : [dans une boutique Oxfam](http://www.oxfamfrance.org/magasins/nos-adresses) ou à [La Librairie Solidaire](http://www.lamaisonducanal.fr/la-librairie-solidaire/)
   *  [capsules Nespresso](https://www.nespresso.com/entreprise/points-de-recyclage.html)
 *  fumeurs : [ne pas jeter ses mégots par terre](https://mobile.lemonde.fr/planete/article/2018/07/17/fumer-nuit-gravement-a-la-sante-des-poissons_5332789_3244.html) et acheter un cendrier de poche
-* shopping
-  * privilégier les achats d'occasion
-  * chercher des vêtements en [coton bio](http://www.vedura.fr/guide/eco-geste/choisissez-vetement-coton-bio)
-  * recoudre (ou faire recoudre) ses [jeans](https://www.francetvinfo.fr/monde/environnement/consommation-le-jeans-est-un-des-produits-les-plus-polluants-au-monde_1264025.html) troués
-  * baskets : acheter des [Veja](https://project.veja-store.com/fr/intro/)
 * à la maison
   * [mettre des couvercles sur les casseroles](https://www.lenergietoutcompris.fr/eco-gestes/je-mets-un-couvercle-sur-la-casserole-quand-je-cuisine)
   * [éteindre box internet et autres appareils électriques la nuit](https://www.linfodurable.fr/conso/appareils-connectes-comment-reduire-leur-empreinte-energetique-3632) à l'aide d'une prise télécommandée
