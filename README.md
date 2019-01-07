@@ -56,8 +56,7 @@ quelques gestes pour réduire son empreinte écologique
   * essayer [Uber Green](https://www.uber.com/fr/ride/ubergreen/) : même prix que Uber X
   * [compenser ses émissions de CO2](https://www.consoglobe.com/compensation-carbone-bonne-idee-cg)
 * cadeaux : offrir (et se faire offrir) des dons plutôt que des objets
-  * [cadons Fondation pour la Nature et l'Homme](http://boutique-solidaire.com/fnh/69-cadons)
-  * [offrir un arbre avec Reforestaction](https://www.reforestaction.com/)
+  * [planter des arbres avec Reforestaction](https://www.reforestaction.com/)
   * [parrainer un lama](https://ahuana.com/fr/l-association/nous-soutenir/) :-)
 * investir dans des projets d'énergie renouvelable en France avec [Énergie Partagée](https://energie-partagee.org/)  
 * faire un don à une asso (déductible à 66%) :
