@@ -17,7 +17,7 @@ quelques gestes pour réduire son empreinte écologique
     * produits ménagers labellisés [Ecocert ou Nature & Progrès](https://www.femmeactuelle.fr/deco/maison-pratique/produits-menagers-ecolos-labels-fier-32231)
   * prendre un sac réutilisable
   * acheter des produits avec moins d'emballage
-    * [en vrac](https://www.bfmtv.com/societe/acheter-en-vrac-la-nouvelle-tendance-ecolo-927973.html) si possible (riz, pates, fruits et légumes, savon...)
+    * [en vrac](https://www.bfmtv.com/societe/acheter-en-vrac-la-nouvelle-tendance-ecolo-927973.html) si possible (riz, pates, fruits et légumes...)
     * [remplacer le gel douche par du savon](https://www.wearethedrops.com/blog/2018/01/23/savon/)
     * savon et lessive liquide : garder un flacon et acheter des recharges
   * [acheter des piles rechargeables](https://www.zdnet.fr/blogs/greenit/piles-rechargeables-32-fois-moins-nocives-pour-l-environnement-39711422.htm)
