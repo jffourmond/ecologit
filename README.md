@@ -23,6 +23,7 @@ quelques gestes pour réduire son empreinte écologique
   * [acheter des piles rechargeables](https://www.zdnet.fr/blogs/greenit/piles-rechargeables-32-fois-moins-nocives-pour-l-environnement-39711422.htm)
 * shopping
   * privilégier les achats d'occasion
+  * [ne plus commander sur Amazon](https://www.telerama.fr/television/scandale-des-invendus-amazon-aurait-detruit-trois-millions-de-produits-en-france-en-2018,n6086750.php)
   * [acheter moins de vêtements](http://www.qqf.fr/infographie/59/la-mode-sans-dessus-dessous)
   * chercher des vêtements en [coton bio](http://www.vedura.fr/guide/eco-geste/choisissez-vetement-coton-bio)
   * recoudre (ou faire recoudre) ses [jeans](https://www.francetvinfo.fr/monde/environnement/consommation-le-jeans-est-un-des-produits-les-plus-polluants-au-monde_1264025.html) troués
