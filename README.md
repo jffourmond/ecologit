@@ -44,7 +44,7 @@ quelques gestes pour réduire son empreinte écologique
   * [éteindre box internet et autres appareils électriques la nuit](https://www.linfodurable.fr/conso/appareils-connectes-comment-reduire-leur-empreinte-energetique-3632) à l'aide d'une prise télécommandée
 * au boulot
   * amener une tasse au lieu d'utiliser des gobelets jetables
-  * amener des couverts et refuser les couverts jetables le midi
+  * amener des boites (en verre si possible) et des couverts pour les repas "à emporter" et refuser les couverts jetables le midi
   * [acheter une gourde](https://lemballageecologique.com/2016/11/28/acheter-une-gourde-bouteille-reutilisable/) au lieu d'acheter des bouteilles d'eau en plastique
   * ramener ses déchets recyclables à la maison en l'absence de tri
   * éteindre son PC et son écran en partant
