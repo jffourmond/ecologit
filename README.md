@@ -75,4 +75,3 @@ Mes gestes pour réduire mon empreinte écologique
   * sur une appli : [Ocean's Zero](https://www.surfrider.eu/oceanszero/) / [WAG](https://www.wwf.fr/agir-au-quotidien/we-act-for-good) / [90 jours](https://90jours.org/)
 
 > Ces gestes ceux que je fais personnellement et je ne prends donc pas de pull requests. Si avez d'autres bonnes idées de gestes écologiques à ajouter à cette liste, je vous invite plutôt à forker ce projet !
-* forker ce projet
