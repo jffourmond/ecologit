@@ -60,7 +60,9 @@ quelques gestes pour réduire son empreinte écologique
 * cadeaux : offrir (et se faire offrir) des dons plutôt que des objets
   * [planter des arbres avec Reforestaction](https://www.reforestaction.com/)
   * [parrainer un lama](https://ahuana.com/fr/l-association/nous-soutenir/) :-)
-* investir dans des projets d'énergie renouvelable en France avec [Énergie Partagée](https://energie-partagee.org/)  
+* investir 
+  * dans des projets d'énergie renouvelable en France avec [Énergie Partagée](https://energie-partagee.org/) 
+  * dans l'agriculture bio en France avec [Terre de Liens](https://terredeliens.org/)
 * faire un don à une asso (déductible à 66%) :
   * [Les Amis de la Terre](http://www.amisdelaterre.org/Je-fais-un-don-aux-Amis-de-la.html)
   * [Greenpeace](https://faire-un-don.greenpeace.fr/)
