@@ -26,7 +26,7 @@ Mes gestes pour réduire mon empreinte écologique
   * [ne plus commander sur Amazon](https://www.telerama.fr/television/scandale-des-invendus-amazon-aurait-detruit-trois-millions-de-produits-en-france-en-2018,n6086750.php)
   * [acheter moins de vêtements](http://www.qqf.fr/infographie/59/la-mode-sans-dessus-dessous)
   * chercher des vêtements en [coton bio](http://www.vedura.fr/guide/eco-geste/choisissez-vetement-coton-bio)
-  * recoudre (ou faire recoudre) ses [jeans](https://www.francetvinfo.fr/monde/environnement/consommation-le-jeans-est-un-des-produits-les-plus-polluants-au-monde_1264025.html) troués
+  * [(faire) recoudre ses vêtements troués](http://archives.lesechos.fr/archives/cercle/2014/05/09/cercle_96723.htm) (et ses [jeans en particulier](https://www.francetvinfo.fr/monde/environnement/consommation-le-jeans-est-un-des-produits-les-plus-polluants-au-monde_1264025.html))
   * baskets : acheter des [Veja](https://project.veja-store.com/fr/intro/)
   * [s'inscrire à la bibliothèque](https://bibliotheques.paris.fr/) plutôt que d'acheter des livres ([papier ou numériques](https://www.consoglobe.com/livre-papier-vs-livre-numerique-lequel-est-le-plus-ecolo-cg))
 * recycler au lieu de jeter
