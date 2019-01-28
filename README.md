@@ -5,8 +5,8 @@ Mes gestes pour réduire mon empreinte écologique
 * refuser de financer les énergies fossiles en mettant
   * ses économies [à la NEF](https://www.lanef.com/particuliers/epargner-solidaire/) ou [au Crédit Coopératif](https://www.credit-cooperatif.coop/Particuliers/Epargner-et-placer/)
   * ses assurances [à la MAIF](https://www.enercoop.fr/content/quand-lenergie-militante-rencontre-lassureur-militant)
+* passer chez un [fournisseur de gaz 100% renouvelable](http://www.grtgaz.com/solutions-avenir/grtgaz-solutions-davenir-pour-la-transition-energetique/le-biomethane-gaz-renouvelable.html) : [ekWateur](https://ekwateur.fr/100-pour-100-renouvelable) ou [Ilek](https://www.ilek.fr/gaz-bio-francais)
 * passer chez un [fournisseur d'électricité 100% renouvelable](https://www.guide-electricite-verte.fr/) : [Enercoop](http://www.enercoop.fr/), [Energie d'Ici](https://www.energiedici.fr/) ou [Ilek](https://www.ilek.fr/)
-* passer chez [ekWateur](https://ekwateur.fr/100-pour-100-renouvelable) pour du gaz renouvelable
 *  [manger moins de viande (et surtout moins de boeuf et d'agneau)](https://www.lemonde.fr/les-decodeurs/article/2015/10/29/la-viande-a-aussi-un-impact-majeur-sur-la-planete_4799570_4355770.html)
 * au supermarché
   * acheter des produits respectueux de l'environnement
