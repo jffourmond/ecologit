@@ -42,6 +42,7 @@ Mes gestes pour réduire mon empreinte écologique
 * à la maison
   * [mettre des couvercles sur les casseroles](https://www.lenergietoutcompris.fr/eco-gestes/je-mets-un-couvercle-sur-la-casserole-quand-je-cuisine)
   * [éteindre box internet et autres appareils électriques la nuit](https://www.linfodurable.fr/conso/appareils-connectes-comment-reduire-leur-empreinte-energetique-3632) à l'aide d'une prise télécommandée
+  * remplacer les capsules Nespresso par du café bio
 * au boulot
   * amener une tasse au lieu d'utiliser des gobelets jetables
   * amener des couverts et une boite en verre pour les repas à emporter, et refuser la vaisselle jetable
