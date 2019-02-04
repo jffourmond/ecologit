@@ -8,6 +8,15 @@ Mes gestes pour réduire mon empreinte écologique
 * passer chez un fournisseur de [gaz 100% renouvelable](http://www.grtgaz.com/solutions-avenir/grtgaz-solutions-davenir-pour-la-transition-energetique/le-biomethane-gaz-renouvelable.html) : [ekWateur](https://ekwateur.fr/100-pour-100-renouvelable) ou [Ilek](https://www.ilek.fr/gaz-bio-francais)
 * passer chez un [fournisseur d'électricité 100% renouvelable](https://www.guide-electricite-verte.fr/) : [Enercoop](http://www.enercoop.fr/), [Energie d'Ici](https://www.energiedici.fr/) ou [Ilek](https://www.ilek.fr/)
 *  [manger moins de viande (et surtout moins de boeuf et d'agneau)](https://www.lemonde.fr/les-decodeurs/article/2015/10/29/la-viande-a-aussi-un-impact-majeur-sur-la-planete_4799570_4355770.html)
+* shopping
+  * limiter ses achats ([made in China = made in charbon](https://sinformerautrement.wordpress.com/2018/02/24/a-quand-la-rupture-energetique/))
+  * privilégier les achats d'occasion
+  * [acheter moins de vêtements](http://www.qqf.fr/infographie/59/la-mode-sans-dessus-dessous)
+  * [(faire) recoudre ses vêtements troués](https://www.wedemain.fr/photo/art/default/29579889-28565659.jpg) (et ses [jeans en particulier](https://www.francetvinfo.fr/monde/environnement/consommation-le-jeans-est-un-des-produits-les-plus-polluants-au-monde_1264025.html))
+  * chercher des vêtements en [coton bio](http://www.vedura.fr/guide/eco-geste/choisissez-vetement-coton-bio)
+  * baskets : acheter des [Veja](https://project.veja-store.com/fr/intro/)
+  * [ne plus commander sur Amazon](https://www.telerama.fr/television/scandale-des-invendus-amazon-aurait-detruit-trois-millions-de-produits-en-france-en-2018,n6086750.php)
+  * [s'inscrire à la bibliothèque](https://bibliotheques.paris.fr/) plutôt que d'acheter des livres ([papier ou numériques](https://www.consoglobe.com/livre-papier-vs-livre-numerique-lequel-est-le-plus-ecolo-cg))
 * au supermarché
   * acheter des produits respectueux de l'environnement
     * [produits sans huile de palme](http://www.liberation.fr/futurs/2015/11/02/huile-de-palme-et-deforestation-les-poumons-de-la-planete-partent-en-fumee-les-notres-souffrent_1410599)
@@ -21,14 +30,6 @@ Mes gestes pour réduire mon empreinte écologique
     * [remplacer le gel douche par du savon](https://www.wearethedrops.com/blog/2018/01/23/savon/)
     * savon et lessive liquide : garder un flacon et acheter des recharges
   * [acheter des piles rechargeables](https://www.zdnet.fr/blogs/greenit/piles-rechargeables-32-fois-moins-nocives-pour-l-environnement-39711422.htm)
-* shopping
-  * privilégier les achats d'occasion
-  * [acheter moins de vêtements](http://www.qqf.fr/infographie/59/la-mode-sans-dessus-dessous)
-  * chercher des vêtements en [coton bio](http://www.vedura.fr/guide/eco-geste/choisissez-vetement-coton-bio)
-  * [(faire) recoudre ses vêtements troués](https://www.wedemain.fr/photo/art/default/29579889-28565659.jpg) (et ses [jeans en particulier](https://www.francetvinfo.fr/monde/environnement/consommation-le-jeans-est-un-des-produits-les-plus-polluants-au-monde_1264025.html))
-  * baskets : acheter des [Veja](https://project.veja-store.com/fr/intro/)
-  * [ne plus commander sur Amazon](https://www.telerama.fr/television/scandale-des-invendus-amazon-aurait-detruit-trois-millions-de-produits-en-france-en-2018,n6086750.php)
-  * [s'inscrire à la bibliothèque](https://bibliotheques.paris.fr/) plutôt que d'acheter des livres ([papier ou numériques](https://www.consoglobe.com/livre-papier-vs-livre-numerique-lequel-est-le-plus-ecolo-cg))
 * recycler au lieu de jeter
   *  médicaments périmés ou non : [à la pharmacie](https://www.cyclamed.org/pourquoi/quoi-rapporter)
   *  vêtements et textiles usés ou non : [chez Emmaüs](http://emmaus-france.org/ou-donner-ou-acheter/) ou [dans une borne Relais](https://www.lerelais.org/oudonner.php)
