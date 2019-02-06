@@ -9,7 +9,7 @@ Mes gestes pour réduire mon empreinte écologique
 * passer chez un [fournisseur d'électricité 100% renouvelable](https://www.guide-electricite-verte.fr/) : [Enercoop](http://www.enercoop.fr/), [Energie d'Ici](https://www.energiedici.fr/) ou [Ilek](https://www.ilek.fr/)
 *  [manger moins de viande (et surtout moins de boeuf et d'agneau)](https://www.lemonde.fr/les-decodeurs/article/2015/10/29/la-viande-a-aussi-un-impact-majeur-sur-la-planete_4799570_4355770.html)
 * shopping
-  * prendre conscience que [made in China = made in charbon](https://sinformerautrement.wordpress.com/2018/02/24/a-quand-la-rupture-energetique/) et limiter ses achats
+  * limiter ses achats en ayant conscience que [made in China = made in charbon](https://sinformerautrement.wordpress.com/2018/02/24/a-quand-la-rupture-energetique/)
   * privilégier les achats d'occasion
   * [acheter moins de vêtements](http://www.qqf.fr/infographie/59/la-mode-sans-dessus-dessous)
   * [(faire) recoudre ses vêtements troués](https://www.wedemain.fr/photo/art/default/29579889-28565659.jpg) (et ses [jeans en particulier](https://www.francetvinfo.fr/monde/environnement/consommation-le-jeans-est-un-des-produits-les-plus-polluants-au-monde_1264025.html))
