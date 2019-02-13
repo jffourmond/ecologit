@@ -63,8 +63,8 @@ Mes gestes pour réduire mon empreinte écologique
   * [planter des arbres avec Reforestaction](https://www.reforestaction.com/)
   * [parrainer un lama](https://ahuana.com/fr/l-association/nous-soutenir/) :-)
 * investir 
-  * dans des projets d'énergie renouvelable en France avec [Énergie Partagée](https://energie-partagee.org/) 
   * dans l'agriculture bio en France avec [Terre de Liens](https://terredeliens.org/)
+  * dans des projets d'énergie renouvelable en France avec [Énergie Partagée](https://energie-partagee.org/) 
 * faire un don à une asso (déductible à 66%) :
   * [Les Amis de la Terre](http://www.amisdelaterre.org/Je-fais-un-don-aux-Amis-de-la.html)
   * [Greenpeace](https://faire-un-don.greenpeace.fr/)
