@@ -45,10 +45,10 @@ Mes gestes pour réduire mon empreinte écologique
   * [éteindre box internet et autres appareils électriques la nuit](https://www.linfodurable.fr/conso/appareils-connectes-comment-reduire-leur-empreinte-energetique-3632) à l'aide d'une prise télécommandée
   * remplacer les capsules Nespresso par du café bio
 * au boulot
-  * amener une tasse au lieu d'utiliser des gobelets jetables
-  * amener des couverts et une boite en verre pour les repas à emporter, et refuser la vaisselle jetable
+  * apporter une tasse au lieu d'utiliser des gobelets jetables
+  * apporter des couverts et une boite en verre pour les repas à emporter, et refuser la vaisselle jetable
   * [acheter une gourde](https://lemballageecologique.com/2016/11/28/acheter-une-gourde-bouteille-reutilisable/) au lieu d'acheter des bouteilles d'eau en plastique
-  * ramener ses déchets recyclables à la maison en l'absence de tri
+  * rapporter ses déchets recyclables à la maison en l'absence de tri
   * éteindre son PC et son écran en partant
 * sur internet
   * [supprimer ses vieux mails avec pièces jointes](http://www.lefigaro.fr/secteur/high-tech/2016/11/04/32001-20161104ARTFIG00113-plus-vous-stockez-vos-mails-plus-vous-polluez-la-planete.php)
