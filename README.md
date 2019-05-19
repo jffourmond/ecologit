@@ -67,7 +67,6 @@ Mes gestes pour réduire mon empreinte écologique
 * faire un don à une asso (déductible à 66%) :
   * [Les Amis de la Terre](http://www.amisdelaterre.org/Je-fais-un-don-aux-Amis-de-la.html)
   * [Fondation Nicolas Hulot](https://dons.fnh.org/)
-  * [Greenpeace](https://faire-un-don.greenpeace.fr/)
   * [Oxfam](https://donner.oxfamfrance.org/faites_un_don/~mon-don)
 * suivre des pages écolo sur les réseaux sociaux et
   * liker / partager des posts
