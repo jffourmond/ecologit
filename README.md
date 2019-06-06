@@ -5,7 +5,7 @@ Mes gestes pour réduire mon empreinte écologique
 * refuser de financer les énergies fossiles en mettant
   * ses économies [à la NEF](https://www.lanef.com/particuliers/epargner-solidaire/) ou [au Crédit Coopératif](https://www.credit-cooperatif.coop/Particuliers/Epargner-et-placer/)
   * son compte courant [au Crédit Coopératif](https://www.fairfinancefrance.org/)
-*  [manger moins de viande (et surtout moins de boeuf et d'agneau)](https://www.lemonde.fr/les-decodeurs/article/2015/10/29/la-viande-a-aussi-un-impact-majeur-sur-la-planete_4799570_4355770.html)
+* [manger moins de viande (et surtout moins de boeuf et d'agneau)](https://www.lemonde.fr/les-decodeurs/article/2015/10/29/la-viande-a-aussi-un-impact-majeur-sur-la-planete_4799570_4355770.html)
 * shopping
   * limiter ses achats en ayant conscience que [made in China = made in charbon](https://sinformerautrement.wordpress.com/2018/02/24/a-quand-la-rupture-energetique/)
   * privilégier les achats d'occasion
