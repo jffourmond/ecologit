@@ -6,7 +6,7 @@ Mes gestes pour réduire mon empreinte écologique
   * ses économies [à la NEF](https://www.lanef.com/particuliers/epargner-solidaire/) ou [au Crédit Coopératif](https://www.credit-cooperatif.coop/Particuliers/Epargner-et-placer/)
   * son compte courant [au Crédit Coopératif](https://www.fairfinancefrance.org/)
 * [manger moins de viande (et surtout moins de boeuf et d'agneau)](https://www.lemonde.fr/les-decodeurs/article/2015/10/29/la-viande-a-aussi-un-impact-majeur-sur-la-planete_4799570_4355770.html)
-* shopping
+* courses quotidiennes
   * limiter ses achats en ayant conscience que [made in China = made in charbon](https://sinformerautrement.wordpress.com/2018/02/24/a-quand-la-rupture-energetique/)
   * privilégier les achats d'occasion
   * [acheter moins de vêtements](http://www.qqf.fr/infographie/59/la-mode-sans-dessus-dessous)
@@ -40,7 +40,6 @@ Mes gestes pour réduire mon empreinte écologique
 * choisir des fournisseurs d'énergie renouvelable 
   * [gaz](http://www.grtgaz.com/solutions-avenir/grtgaz-solutions-davenir-pour-la-transition-energetique/le-biomethane-gaz-renouvelable.html) : [ekWateur](https://ekwateur.fr/100-pour-100-renouvelable) ou [Ilek](https://www.ilek.fr/gaz-bio-francais)
   * [électricité](https://www.guide-electricite-verte.fr/) : [Enercoop](http://www.enercoop.fr/), [Energie d'Ici](https://www.energiedici.fr/) ou [Ilek](https://www.ilek.fr/)
-
 *  fumeurs : [ne pas jeter ses mégots par terre](https://mobile.lemonde.fr/planete/article/2018/07/17/fumer-nuit-gravement-a-la-sante-des-poissons_5332789_3244.html) et acheter un cendrier de poche
 * à la maison
   * [mettre des couvercles sur les casseroles](https://www.lenergietoutcompris.fr/eco-gestes/je-mets-un-couvercle-sur-la-casserole-quand-je-cuisine)
