@@ -6,7 +6,7 @@ Mes gestes pour réduire mon empreinte écologique
   * ses économies [à la NEF](https://www.lanef.com/particuliers/epargner-solidaire/) ou [au Crédit Coopératif](https://www.credit-cooperatif.coop/Particuliers/Epargner-et-placer/)
   * son compte courant [au Crédit Coopératif](https://www.fairfinancefrance.org/)
 * [manger moins de viande (et surtout moins de boeuf et d'agneau)](https://www.lemonde.fr/les-decodeurs/article/2015/10/29/la-viande-a-aussi-un-impact-majeur-sur-la-planete_4799570_4355770.html)
-* courses quotidiennes
+* shopping
   * limiter ses achats en ayant conscience que [made in China = made in charbon](https://sinformerautrement.wordpress.com/2018/02/24/a-quand-la-rupture-energetique/)
   * privilégier les achats d'occasion
   * [acheter moins de vêtements](http://www.qqf.fr/infographie/59/la-mode-sans-dessus-dessous)
@@ -15,7 +15,7 @@ Mes gestes pour réduire mon empreinte écologique
   * baskets : acheter des [Veja](https://project.veja-store.com/fr/intro/)
   * [ne plus commander sur Amazon](https://www.telerama.fr/television/scandale-des-invendus-amazon-aurait-detruit-trois-millions-de-produits-en-france-en-2018,n6086750.php)
   * [s'inscrire à la bibliothèque](https://bibliotheques.paris.fr/) plutôt que d'acheter des livres ([papier ou numériques](https://www.consoglobe.com/livre-papier-vs-livre-numerique-lequel-est-le-plus-ecolo-cg))
-* au supermarché
+* courses quotidiennes
   * acheter des produits respectueux de l'environnement
     * [produits alimentaires bio](http://www.fao.org/organicag/oa-faq/oa-faq6/fr/)
     * [produits sans huile de palme](http://www.liberation.fr/futurs/2015/11/02/huile-de-palme-et-deforestation-les-poumons-de-la-planete-partent-en-fumee-les-notres-souffrent_1410599)
