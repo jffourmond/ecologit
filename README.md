@@ -5,8 +5,6 @@ Mes gestes pour réduire mon empreinte écologique
 * refuser de financer les énergies fossiles en mettant
   * ses économies [à la NEF](https://www.lanef.com/particuliers/epargner-solidaire/) ou [au Crédit Coopératif](https://www.credit-cooperatif.coop/Particuliers/Epargner-et-placer/)
   * son compte courant [au Crédit Coopératif](https://www.fairfinancefrance.org/)
-* passer chez un fournisseur de [gaz 100% renouvelable](http://www.grtgaz.com/solutions-avenir/grtgaz-solutions-davenir-pour-la-transition-energetique/le-biomethane-gaz-renouvelable.html) : [ekWateur](https://ekwateur.fr/100-pour-100-renouvelable) ou [Ilek](https://www.ilek.fr/gaz-bio-francais)
-* passer chez un [fournisseur d'électricité 100% renouvelable](https://www.guide-electricite-verte.fr/) : [Enercoop](http://www.enercoop.fr/), [Energie d'Ici](https://www.energiedici.fr/) ou [Ilek](https://www.ilek.fr/)
 *  [manger moins de viande (et surtout moins de boeuf et d'agneau)](https://www.lemonde.fr/les-decodeurs/article/2015/10/29/la-viande-a-aussi-un-impact-majeur-sur-la-planete_4799570_4355770.html)
 * shopping
   * limiter ses achats en ayant conscience que [made in China = made in charbon](https://sinformerautrement.wordpress.com/2018/02/24/a-quand-la-rupture-energetique/)
@@ -39,6 +37,10 @@ Mes gestes pour réduire mon empreinte écologique
   * bouchons de bouteilles de vin [en liège ou non](http://www.bioaddict.fr/flashinfos/un-systeme-de-collecte-et-recyclage-des-bouchons-chez-les-cavistes-nicolas-f5888.html) : [dans tous les Nicolas](http://www.planeteliege.com/recyclage.php)
   *  livres : [dans une boutique Oxfam](http://www.oxfamfrance.org/magasins/nos-adresses) ou à [La Librairie Solidaire](http://www.lamaisonducanal.fr/la-librairie-solidaire/)
   *  [capsules Nespresso](https://www.nespresso.com/entreprise/points-de-recyclage.html)
+* choisir des fournisseurs d'énergie renouvelable 
+  * [gaz](http://www.grtgaz.com/solutions-avenir/grtgaz-solutions-davenir-pour-la-transition-energetique/le-biomethane-gaz-renouvelable.html) : [ekWateur](https://ekwateur.fr/100-pour-100-renouvelable) ou [Ilek](https://www.ilek.fr/gaz-bio-francais)
+  * [électricité](https://www.guide-electricite-verte.fr/) : [Enercoop](http://www.enercoop.fr/), [Energie d'Ici](https://www.energiedici.fr/) ou [Ilek](https://www.ilek.fr/)
+
 *  fumeurs : [ne pas jeter ses mégots par terre](https://mobile.lemonde.fr/planete/article/2018/07/17/fumer-nuit-gravement-a-la-sante-des-poissons_5332789_3244.html) et acheter un cendrier de poche
 * à la maison
   * [mettre des couvercles sur les casseroles](https://www.lenergietoutcompris.fr/eco-gestes/je-mets-un-couvercle-sur-la-casserole-quand-je-cuisine)
