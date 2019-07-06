@@ -44,7 +44,7 @@ Mes gestes pour réduire mon empreinte écologique
   * [éteindre box internet et autres appareils électriques la nuit](https://www.linfodurable.fr/conso/appareils-connectes-comment-reduire-leur-empreinte-energetique-3632) à l'aide d'une prise télécommandée
   * [mettre des couvercles sur les casseroles](https://www.lenergietoutcompris.fr/eco-gestes/je-mets-un-couvercle-sur-la-casserole-quand-je-cuisine)
   * remplacer les capsules Nespresso par du café bio
-  * acheter des [serviettes de table en coton bio](https://www.minipop.fr/produit/la-maison/serviettes/serviette-de-table/) au lieu de serviettes jetables
+  * remplacer les serviettes de table en papier par des [serviettes en coton bio](https://www.minipop.fr/produit/la-maison/serviettes/serviette-de-table/)
 * au boulot
   * [refuser de travailler pour une entreprise climaticide](https://www.climanifeste.net/)
   * apporter une tasse au lieu d'utiliser des gobelets jetables
