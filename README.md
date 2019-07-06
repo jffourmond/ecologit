@@ -41,9 +41,10 @@ Mes gestes pour réduire mon empreinte écologique
   *  [capsules Nespresso](https://www.nespresso.com/entreprise/points-de-recyclage.html)
 *  fumeurs : [ne pas jeter ses mégots par terre](https://mobile.lemonde.fr/planete/article/2018/07/17/fumer-nuit-gravement-a-la-sante-des-poissons_5332789_3244.html) et acheter un cendrier de poche
 * à la maison
-  * [mettre des couvercles sur les casseroles](https://www.lenergietoutcompris.fr/eco-gestes/je-mets-un-couvercle-sur-la-casserole-quand-je-cuisine)
   * [éteindre box internet et autres appareils électriques la nuit](https://www.linfodurable.fr/conso/appareils-connectes-comment-reduire-leur-empreinte-energetique-3632) à l'aide d'une prise télécommandée
+  * [mettre des couvercles sur les casseroles](https://www.lenergietoutcompris.fr/eco-gestes/je-mets-un-couvercle-sur-la-casserole-quand-je-cuisine)
   * remplacer les capsules Nespresso par du café bio
+  * acheter des [serviettes de table en coton bio](https://www.minipop.fr/produit/la-maison/serviettes/serviette-de-table/) au lieu de serviettes jetables
 * au boulot
   * [refuser de travailler pour une entreprise climaticide](https://www.climanifeste.net/)
   * apporter une tasse au lieu d'utiliser des gobelets jetables
