@@ -46,6 +46,11 @@ Mes gestes pour réduire mon empreinte écologique
   * remplacer les capsules Nespresso par du café bio
   * remplacer les serviettes de table en papier par des [serviettes en coton bio](https://www.minipop.fr/produit/la-maison/serviettes/serviette-de-table/)
   * planter des [fleurs mellifères](https://www.beebarconcept.com) sur son balcon
+* sur internet
+  * [désactiver la lecture automatique des vidéos sur Facebook, LinkedIn et Twitter](https://theshiftproject.org/article/climat-insoutenable-usage-video/)
+  * [supprimer ses vieux mails avec pièces jointes](http://www.lefigaro.fr/secteur/high-tech/2016/11/04/32001-20161104ARTFIG00113-plus-vous-stockez-vos-mails-plus-vous-polluez-la-planete.php)
+  * [mettre ses playlists Spotify en cache](https://mic.com/articles/104716/the-one-thing-everyone-is-missing-about-streaming-music#.1uzwNPntT)  
+  * [mettre ses sites préférés en favoris](https://start.lesechos.fr/actu-entreprises/societe/les-gestes-a-adopter-pour-etre-ecolo-sur-le-web-9365.php)
 * au boulot
   * [refuser de travailler pour une entreprise climaticide](https://www.climanifeste.net/)
   * apporter une tasse au lieu d'utiliser des gobelets jetables
@@ -53,11 +58,6 @@ Mes gestes pour réduire mon empreinte écologique
   * [acheter une gourde](https://lemballageecologique.com/2016/11/28/acheter-une-gourde-bouteille-reutilisable/) au lieu d'acheter des bouteilles d'eau en plastique
   * rapporter ses déchets recyclables à la maison en l'absence de tri
   * éteindre son PC et son écran en partant
-* sur internet
-  * [désactiver la lecture automatique des vidéos sur Facebook, LinkedIn et Twitter](https://theshiftproject.org/article/climat-insoutenable-usage-video/)
-  * [supprimer ses vieux mails avec pièces jointes](http://www.lefigaro.fr/secteur/high-tech/2016/11/04/32001-20161104ARTFIG00113-plus-vous-stockez-vos-mails-plus-vous-polluez-la-planete.php)
-  * [mettre ses playlists Spotify en cache](https://mic.com/articles/104716/the-one-thing-everyone-is-missing-about-streaming-music#.1uzwNPntT)  
-  * [mettre ses sites préférés en favoris](https://start.lesechos.fr/actu-entreprises/societe/les-gestes-a-adopter-pour-etre-ecolo-sur-le-web-9365.php)
 * en déplacement
   * [prendre le train plutôt que la voiture ou l'avion](https://www.consoglobe.com/les-14-modes-de-transport-les-moins-polluants-cg)
   * essayer [Uber Green](https://www.uber.com/fr/ride/ubergreen/) : même prix que Uber X
