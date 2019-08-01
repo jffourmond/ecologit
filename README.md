@@ -48,6 +48,7 @@ Mes gestes pour réduire mon empreinte écologique
   * planter des [fleurs mellifères](https://www.beebarconcept.com) sur son balcon
 * sur internet
   * désactiver la lecture automatique des [vidéos](https://theshiftproject.org/article/climat-insoutenable-usage-video/) sur Facebook, LinkedIn et Twitter
+  * mesurer ses émissions de CO2 avec [Carbonalyser](https://addons.mozilla.org/fr/firefox/addon/carbonalyser/) et fermer ses onglets inutilisés
   * [supprimer ses vieux mails avec pièces jointes](http://www.lefigaro.fr/secteur/high-tech/2016/11/04/32001-20161104ARTFIG00113-plus-vous-stockez-vos-mails-plus-vous-polluez-la-planete.php)
   * [mettre ses playlists Spotify en cache](https://mic.com/articles/104716/the-one-thing-everyone-is-missing-about-streaming-music#.1uzwNPntT)  
   * [mettre ses sites préférés en favoris](https://start.lesechos.fr/actu-entreprises/societe/les-gestes-a-adopter-pour-etre-ecolo-sur-le-web-9365.php)
