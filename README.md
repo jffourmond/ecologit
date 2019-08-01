@@ -54,6 +54,7 @@ Mes gestes pour réduire mon empreinte écologique
   * rapporter ses déchets recyclables à la maison en l'absence de tri
   * éteindre son PC et son écran en partant
 * sur internet
+  * [désactiver la lecture automatique des vidéos sur Facebook, LinkedIn et Twitter](https://theshiftproject.org/article/climat-insoutenable-usage-video/)
   * [supprimer ses vieux mails avec pièces jointes](http://www.lefigaro.fr/secteur/high-tech/2016/11/04/32001-20161104ARTFIG00113-plus-vous-stockez-vos-mails-plus-vous-polluez-la-planete.php)
   * [mettre ses playlists Spotify en cache](https://mic.com/articles/104716/the-one-thing-everyone-is-missing-about-streaming-music#.1uzwNPntT)  
   * [mettre ses sites préférés en favoris](https://start.lesechos.fr/actu-entreprises/societe/les-gestes-a-adopter-pour-etre-ecolo-sur-le-web-9365.php)
