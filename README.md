@@ -7,6 +7,7 @@ Mes gestes pour réduire mon empreinte écologique
   * son compte courant [au Crédit Coopératif](https://www.fairfinancefrance.org/)
 * passer chez un fournisseur de [gaz renouvelable](http://www.carbone4.com/wp-content/uploads/2019/06/Publication-Carbone-4-biome%CC%81thane-et-climat.pdf) : [ekWateur](https://ekwateur.fr/100-pour-100-renouvelable) ou [Ilek](https://www.ilek.fr/gaz-bio-francais)
 * [manger moins de viande (et surtout moins de boeuf et d'agneau)](https://www.lemonde.fr/les-decodeurs/article/2015/10/29/la-viande-a-aussi-un-impact-majeur-sur-la-planete_4799570_4355770.html)
+* [manger moins de poisson](https://www.sciencesetavenir.fr/nature-environnement/le-guide-conso-de-la-wwf-pour-remedier-a-la-surpeche_110936)
 * shopping
   * limiter ses achats ([made in China = made in charbon](https://sinformerautrement.wordpress.com/2018/02/24/a-quand-la-rupture-energetique/))
   * privilégier les achats d'occasion
