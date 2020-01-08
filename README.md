@@ -66,7 +66,7 @@ Mes gestes pour réduire mon empreinte écologique
   * [compenser ses émissions de CO2](https://www.consoglobe.com/compensation-carbone-bonne-idee-cg)
 * cadeaux : offrir (et se faire offrir) des dons plutôt que des objets
   * [planter des arbres avec Reforestaction](https://www.reforestaction.com/)
-  * [parrainer un lama](https://ahuana.com/fr/l-association/nous-soutenir/) :-)
+  * [parrainer un lama](http://www.les-alpagas-des-monts-darree.fr/page24.html) :-)
 * investir 
   * dans l'agriculture bio en France avec [Terre de Liens](https://terredeliens.org/)
   * dans des projets de gaz renouvelable en France avec [Énergie Partagée](https://energie-partagee.org/)   
